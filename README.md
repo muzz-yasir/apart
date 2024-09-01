@@ -15,7 +15,7 @@ This repository contains a demonstration of the DarkForest Human Content Verific
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/darkforest-hcvs-demo.git
+   git clone https://github.com/muzz-yasir/darkforest-hcvs-demo.git
    cd darkforest-hcvs-demo
    ```
 
@@ -94,6 +94,4 @@ nltk.download('stopwords')
 
 This is a demonstration project and should not be used in production without further development and security considerations.
 
-## License
 
-[Insert your chosen license here]
