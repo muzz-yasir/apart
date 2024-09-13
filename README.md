@@ -1,4 +1,4 @@
-*This repo contains a demo for my submission to Apart Research's Hackathon for Technical AI Safety Startups, which won 1st place. See my submission [here]([url](https://www.apartresearch.com/project/darkforest---defending-the-authentic-and-humane-web))
+*This repo contains a demo for my submission to Apart Research's Hackathon for Technical AI Safety Startups, which won 1st place. See my submission [here]([url](https://www.apartresearch.com/project/darkforest---defending-the-authentic-and-humane-web))*
 
 # DarkForest HCVS Demo
 
